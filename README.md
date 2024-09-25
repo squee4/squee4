@@ -50,7 +50,7 @@
 <ul style="list-style: square">
   <li>🌱 Currently mastering <strong>C language</strong> and exploring the world of <strong>machine learning</strong>.</li>
   <li>🔍 Fascinated by the <strong>fintech sector</strong> and eager to dive deeper into <strong>automation technologies</strong>.</li>
-  <li>🎯 Personal goal: To create a project with a meaningful impact on humanity, blending technology and innovation for the greater good.</li>
+  <li>🎯 Personal goal: To develop impactful projects that contribute improving people’s daily lives through technology.</li>
 </ul>
 
 
