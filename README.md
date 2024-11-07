@@ -4,6 +4,9 @@
   I’m a web developer with a passion for solving challenges and creating solutions tailored to people’s needs. For me, every problem is like a game—there are rules to follow, strategies to create, and ultimately, a solution to uncover. Whether it’s building a new feature or optimizing a system, I approach each task with curiosity and determination, constantly pushing myself to find the best possible outcome. I thrive on turning complex problems into simple, effective solutions, and I’m always ready for the next challenge!
 </p>
 
+<h3>My 42 intra profile:</h3>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/ijerruz-?1337Badge=off&UM6P=off" alt="ijerruz-'s 42 stats" /></a>
+
 <h3>🛠️ Skills & Technologies</h3>
 
 <table>
